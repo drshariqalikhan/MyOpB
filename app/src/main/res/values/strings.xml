@@ -1,3 +1,67 @@
 <resources>
-    <string name="app_name">MyOpB</string>
+    <string name="app_name">myop_patient</string>
+    <string name="nric">IC Number:</string>
+
+    <!-- RED FLAGS-->
+    <!--pg1-->
+    <string name="a1">Can you easily climb 2 flights of stairs?</string>
+    <string name="a2">Do you have a fever, cold or infection?</string>
+    <string name="a3">Do you have any loose teeth?</string>
+    <string name="a4">Do you have teeth implants or crowns?</string>
+    <string name="a5">Are you Pregnant?</string>
+    <!--pg2-->
+    <string name="a6">Do you get breathless on lying flat or at rest?</string>
+    <string name="a7">Do you have any heart disease or heart attacks?</string>
+    <string name="a8">Do you get chest pains?</string>
+    <string name="a9">Do you get irregular heart beats?</string>
+    <string name="a10">Do you have any blood disease or Anaemia?</string>
+    <!--pg3-->
+    <string name="a11">Do you have Diabetes?</string>
+    <string name="a12">Do you have thyroid problems?</string>
+    <string name="a13">Do you have any kidney disease or dialysis?</string>
+    <string name="a14">Do you have any Jaundice or Liver Disease?</string>
+    <string name="a15">Do you mostly get a sour taste in the mouth lying flat?</string>
+    <!--pg4-->
+    <string name="a16">Have you had any strokes or mini strokes or paralysis?</string>
+    <string name="a17">Do you have epilepsy or fits?</string>
+    <string name="a18">Do you have relatives who had reaction to Anaesthesia?</string>
+    <string name="a19">Do you have a psychiatric illness?</string>
+    <string name="a20">Do you have joint disease/Arthritis/Muscular disease?</string>
+    <!--pg5-->
+    <string name="a21">Do you smoke?</string>
+    <string name="a22">Do have any Asthma/Lung problems/Sleep apnea?</string>
+    <string name="a23">Do you Snore loudly?</string>
+    <string name="a24">Do you mostly feel tired in the daytime?</string>
+    <string name="a25">Do you sometimes stop breathing in sleep?</string>
+    <!--pg6-->
+    <string name="a26">Do you regularly consume alcohol?</string>
+    <string name="a27">Do you have High Blood pressure?</string>
+    <string name="a28">Do you have Allergies?</string>
+    <string name="a29">Did you have operations or surgeries in the past?</string>
+    <string name="a30">Did you get Nausea or Vomiting after surgery?</string>
+
+    <!--pg7-->
+    <string name="a31">Are you taking traditional Chinese herbal medication?</string>
+    <string name="a32">Do you taking any medications?</string>
+
+    <!--other-->
+    <string name="upload_medpics">You have indicated that you take medications at home, Please take a photo of your medications</string>
+    <string name="videoinstruction">Please watch this COMPLETE video about your anaesthesia to complete this online assessment</string>
+    <string name="enter_details">Please Enter Details:</string>
+    <string name="rejection">You Will have to complete the rest of the Preoperative Assessment in the PEC Clinic in SGH </string>
+    <string name="reportheader">ANA Pre-Anesthetic Assessment Form SGH [Charted Location: Online PEC]</string>
+    <string name="reportMets"> Fully Independent \n Best Known Function: \n Climb up 2 storeys or up the overhead crossing \nFunctional Capacity(in METs):4-10 </string>
+    <string name="past_medical_history">Past Medical History</string>
+    <string name="Acknowledge">Please click the \'AGREE\' button if you agree with the summary below, Otherwise click \'Start Over\'to begin Assessment again. </string>
+    <!--<string name="Ack_summary_header">-->
+    <!--<![CDATA[>>You are not on any antibiotics and do not have any Fever or Infections \n >>You can EASILY walk 100 meters or climb up 2 storeys]]>-->
+    <!--</string>-->
+    <string name="Ack_summary_header"></string>
+    <!--faq-->
+    <string name="faq1">How soon will I wake up after the operation?</string>
+    <string name="faq2">Will I be in pain after the operation?</string>
+    <string name="mouth_wide">OPEN YOUR MOUTH WIDE</string>
+    <string name="faq3">When can I eat or drink after the operation?</string>
+
+
 </resources>
